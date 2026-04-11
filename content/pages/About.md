@@ -50,7 +50,7 @@ I aim to combine hardware, software, and AI to create solutions that have real-w
 
 - [LinkedIn](https://www.linkedin.com/in/shankarpoun/)
 - [GitHub](https://github.com/shankartce)
-- [PyPI](https://pypi.org/user/shankartce/)
+- [PyPI](https://pypi.org/user/shankarp/)
 <!-- - [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
 - [Kactii](https://app.kactii.com/c/raja) -->
 
