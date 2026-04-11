@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+2026-04-04-genai-blog.md
+2026-04-11-agentic-system-design-concepts-patterns-every-ai-engineer-should-know.md
 # Distribution / packaging
 .Python
 build/
