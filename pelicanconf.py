@@ -40,8 +40,8 @@ DISPLAY_PAGES_ON_MENU = True
 SOCIAL = (
     ("github", "https://github.com/shankartce"),
     ("linkedin", "https://www.linkedin.com/in/shankarpoun/"),
-    ("blog", "https://articlevil.substack.com/"),
-    ("newspaper", "https://shankartce.github.io/pynotes/"),
+    ("substack", "https://articlevil.substack.com/"),
+    ("python", "https://shankartce.github.io/pynotes/"),
 )
 
 DEFAULT_PAGINATION = 10
