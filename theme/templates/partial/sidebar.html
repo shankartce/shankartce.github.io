@@ -79,6 +79,7 @@
       {% for name, link in SOCIAL %}
       <li>
         <a class="sc-{{ name }}"
+            {% if name == 'substack' %}style="background-color:#ff6719"{% elif name == 'python' %}style="background-color:#ffd343"{% endif %}
            {% if name in relme %}rel="me"{% endif %}
            href="{{ link }}"
            target="_blank">
