@@ -4,8 +4,6 @@ Category: AI
 Tags: Ollama, Cloud Models, Local AI, Inference, LLMs, Agentic AI
 Slug: ollama-cloud-models-more-interesting-than-just-bigger-models
 
-# Ollama Cloud Models Are More Interesting Than “Just Bigger Models in the Cloud”
-
 The real story is not that Ollama moved inference off your laptop. It is that it made local and cloud feel like the same machine.
 
 Most people hear “cloud models” and immediately think: expensive, enterprise-y, probably slower than local if the internet sneezes. That reaction is understandable. It is also incomplete.
