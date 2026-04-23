@@ -1,5 +1,5 @@
 Title: Optimize Generative AI Model Performance with Microsoft Foundry
-Date: 2026-04-20
+Date: 2026-04-23
 Category: AI
 Tags: MicrosoftFoundry, AzureAI, GenerativeAI, RAG, LLMs, FineTuning
 Slug: optimize-genai-model-with-microsoft-foundry
