@@ -1,6 +1,6 @@
 Title: Mastering Microsoft AI Foundry: Select, Deploy, and Evaluate
 Date: 2026-04-11
-Category: GenAI
+Category: Azure Course AI-103T00-A
 Tags: Microsoft-Foundry, LLM, SLM, AI-deployment, evaluation-metrics, developer-stack
 Slug: mastering-microsoft-ai-foundry-2026
 

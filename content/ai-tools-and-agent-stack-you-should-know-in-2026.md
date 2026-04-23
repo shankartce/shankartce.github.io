@@ -1,6 +1,6 @@
 Title: AI Tools & Agent Stack You Should Know in 2026
 Date: 2026-04-11
-Category: GenAI
+Category: AI
 Tags: GenAI, AI-agents, LLM, tools, developer-stack
 Slug: ai-tools-agent-stack-2026
 

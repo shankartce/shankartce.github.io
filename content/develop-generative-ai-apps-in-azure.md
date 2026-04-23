@@ -1,6 +1,6 @@
 Title: Develop Generative AI Apps in Azure — the practical route from idea to production
 Date: 2026-04-20
-Category: AI
+Category: Azure Course AI-103T00-A
 Tags: Generative AI, Azure AI, Microsoft Foundry, AI Agents, Responsible AI
 Slug: develop-generative-ai-apps-in-azure
 

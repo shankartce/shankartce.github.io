@@ -1,6 +1,6 @@
 Title: Microsoft Foundry for Chat Apps: From Playground to Production
 Date: 2026-04-22
-Category: GenAI
+Category: Azure Course AI-103T00-A
 Tags: Microsoft-Foundry, AzureAI, GenerativeAI, AIChatbots, AIEngineering
 Slug: practical-guide-to-build-genai-chat-app
 

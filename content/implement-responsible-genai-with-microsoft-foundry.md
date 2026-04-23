@@ -1,6 +1,6 @@
 Title: Building Trustworthy AI Agents with Azure AI Content Safety and Foundry
 Date: 2026-04-23
-Category: AI
+Category: Azure Course AI-103T00-A
 Tags: MicrosoftFoundry, AzureAI, GenerativeAI, ResponsibleAI, AIGovernance
 Slug: implement-responsible-genai-with-microsoft-foundry
 
