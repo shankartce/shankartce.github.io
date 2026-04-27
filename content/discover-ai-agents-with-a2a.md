@@ -2,7 +2,7 @@ Title: Discover Azure AI Agents with A2A: Why Agent-to-Agent Communication Matte
 Date: 2026-04-26
 Category: Azure Course AI-103T00-A
 Tags: Azure AI, Microsoft Foundry, AI Agents, A2A, Multi-Agent Orchestration
-Slug: orchestrate-multi-agent-orchestration-using-microsoft-agent-framework
+Slug: discover-ai-agents-with-a2a
 
 ## TL;DR
 
