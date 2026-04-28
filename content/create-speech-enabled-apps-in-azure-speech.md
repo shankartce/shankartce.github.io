@@ -2,7 +2,7 @@ Title: Create Speech-Enabled Apps with Azure Speech in Microsoft Foundry Tools
 Date: 2026-04-28
 Category: Azure Course AI-103T00-A
 Tags: Microsoft Foundry, Azure Speech, Speech-to-Text, Text-to-Speech, AI Apps
-Slug: create-speech-enabled-apps-in-azure-speech
+Slug: create-speech-enabled-apps-in-azure
 
 ## TL;DR
 
