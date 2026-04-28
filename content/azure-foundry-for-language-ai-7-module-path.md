@@ -1,9 +1,8 @@
-
 Title: Inside Microsoft’s Natural Language Solutions Path for Azure AI Developers
 Date: 2026-04-28
 Category: Azure Course AI-103T00-A
 Tags: Microsoft-Foundry, Azure AI, Azure Language, Azure Speech, AI Agents
-Slug: azure-foundry-for-language-ai-7-module-path
+Slug: azure-foundry-for-language-ai-learning-path
 
 # TL;DR
 
