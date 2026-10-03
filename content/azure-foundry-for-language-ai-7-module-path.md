@@ -4,11 +4,9 @@ Category: Azure Course AI-103T00-A
 Tags: Microsoft-Foundry, Azure AI, Azure Language, Azure Speech, AI Agents
 Slug: azure-foundry-for-language-ai-learning-path
 
-# TL;DR
-
 ## Why this learning path matters
 
-I am assuming you want a single practitioner-oriented guide to the full learning path, not a lesson-by-lesson recap. That assumption fits the structure of the path: it is an **intermediate** track for **AI Engineers** and **Developers**, and Microsoft positions it around building apps and agents that can analyze text, transcribe and synthesize speech, and translate languages in Microsoft Foundry. That makes it especially relevant if you are moving from prompt-based demos into production-minded language systems. 
+This is a practitioner-oriented guide to the full learning path, not a lesson-by-lesson recap. The path is an **intermediate** track for **AI Engineers** and **Developers**, and Microsoft positions it around building apps and agents that can analyze text, transcribe and synthesize speech, and translate languages in Microsoft Foundry. That makes it especially relevant if you are moving from prompt-based demos into production-minded language systems. 
 
 The practical value here is that the path is not limited to one modality. It starts with text intelligence, moves into agent-based tool use, then into speech-capable generative applications, speech-enabled apps, voice live agents, and finally multilingual translation. In other words, it maps very closely to how real product teams ship language features today: first extract meaning, then automate actions, then add voice, then expand across languages. 
 

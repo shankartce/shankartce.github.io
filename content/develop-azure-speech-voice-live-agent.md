@@ -6,7 +6,7 @@ Slug: develop-azure-speech-voice-live-agent
 
 ## TL;DR
 
-Assuming you want a blog post centered on the Microsoft Learn module itself, this training path is about building **real-time voice agents**, not just adding speech to an app. Microsoft says the module is **intermediate**, aimed at **developers**, has **7 units**, and teaches you how to use the **Voice Live API**, the **Voice Live SDK**, and **Microsoft Foundry agents** to create conversational AI solutions. 
+This training path is about building **real-time voice agents**, not just adding speech to an app. Microsoft says the module is **intermediate**, aimed at **developers**, has **7 units**, and teaches you how to use the **Voice Live API**, the **Voice Live SDK**, and **Microsoft Foundry agents** to create conversational AI solutions. 
 
 ## Why this module is a big deal
 
